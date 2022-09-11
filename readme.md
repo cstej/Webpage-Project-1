@@ -2,8 +2,6 @@
 
 ---
 
----
-
 ## Preview Image
 
 ![img](./preview.png)
